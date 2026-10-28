@@ -1,0 +1,121 @@
+===== SECOND HAND PRODUCT EXCHANGE =====
+1. Add Product
+2. View Available Products
+3. Search Product
+4. Buy Product
+5. View Sold Products
+6. Exit
+Enter Your Choice: 1
+
+--- Add Product ---
+Enter Product ID: 101
+Enter Product Name: Laptop
+Enter Category: Electronics
+Enter Price: 15000
+Enter Seller Name: Arun
+Product Added Successfully!
+
+===== SECOND HAND PRODUCT EXCHANGE =====
+1. Add Product
+2. View Available Products
+3. Search Product
+4. Buy Product
+5. View Sold Products
+6. Exit
+Enter Your Choice: 1
+
+--- Add Product ---
+Enter Product ID: 102
+Enter Product Name: Bicycle
+Enter Category: Sports
+Enter Price: 3500
+Enter Seller Name: Bala
+Product Added Successfully!
+
+===== SECOND HAND PRODUCT EXCHANGE =====
+1. Add Product
+2. View Available Products
+3. Search Product
+4. Buy Product
+5. View Sold Products
+6. Exit
+Enter Your Choice: 2
+
+--- Available Products ---
+-----------------------------
+Product ID   : 101
+Product Name : Laptop
+Category     : Electronics
+Price        : Rs.15000.0
+Seller       : Arun
+Status       : Available
+-----------------------------
+Product ID   : 102
+Product Name : Bicycle
+Category     : Sports
+Price        : Rs.3500.0
+Seller       : Bala
+Status       : Available
+
+===== SECOND HAND PRODUCT EXCHANGE =====
+1. Add Product
+2. View Available Products
+3. Search Product
+4. Buy Product
+5. View Sold Products
+6. Exit
+Enter Your Choice: 3
+
+--- Search Product ---
+Enter Product Name: Laptop 
+-----------------------------
+Product ID   : 101
+Product Name : Laptop
+Category     : Electronics
+Price        : Rs.15000.0
+Seller       : Arun
+Status       : Available
+
+===== SECOND HAND PRODUCT EXCHANGE =====
+1. Add Product
+2. View Available Products
+3. Search Product
+4. Buy Product
+5. View Sold Products
+6. Exit
+Enter Your Choice: 4
+
+--- Buy Product ---
+Enter Product ID: 101
+Product: Laptop
+Price: Rs.15000.0
+Confirm Purchase (Y/N): Y
+Purchase Successful!
+
+===== SECOND HAND PRODUCT EXCHANGE =====
+1. Add Product
+2. View Available Products
+3. Search Product
+4. Buy Product
+5. View Sold Products
+6. Exit
+Enter Your Choice: 5
+
+--- Sold Products ---
+-----------------------------
+Product ID   : 101
+Product Name : Laptop
+Category     : Electronics
+Price        : Rs.15000.0
+Seller       : Arun
+Status       : Sold
+
+===== SECOND HAND PRODUCT EXCHANGE =====
+1. Add Product
+2. View Available Products
+3. Search Product
+4. Buy Product
+5. View Sold Products
+6. Exit
+Enter Your Choice: 6
+Thank You for Using Our System!

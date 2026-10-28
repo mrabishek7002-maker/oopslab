@@ -1,0 +1,28 @@
+Output:
+
+Enter Name of Employee :
+Gokul
+Enter ID of Employee :
+327
+Enter Address of Employee :
+Villupuram
+Enter Mail ID of Employee :
+gokul@gmail.com
+Enter Mobile Number of Employee :
+9876543210
+Enter the Basicpay :
+15000
+Enter the Designation :
+1. Programmer
+2. AssistantProfessor
+ 3. AssociateProfessor
+4.Professor 
+5. Exit
+2
+Name of The Employee :Gokul***** payslip ****
+Employee Name: Gokul
+Employee_ID: 327
+Address: Villupuram
+Mobile Number: 9876543210
+ Grosssalary =32865.0
+ Netsalary =31050.0
